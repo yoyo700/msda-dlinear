@@ -1,0 +1,5 @@
+Variant,Pinball loss,PICP (%),PINAW
+Full DLinear-MSDA,12.44,75.47,0.192
+w/o Sequence Decoupling,12.6,71.39,0.185
+w/o Selective Alignment,31.49,28.7,0.154
+w/o Uncertainty Module,12.37,71.03,0.158
